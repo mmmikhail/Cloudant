@@ -18,7 +18,7 @@ The Cloudant API reference is intended to be a comprehensive and living catalog 
 Contributions are welcome through [Cloudant Labs on GitHub ![External link icon](../images/launch-glyph.svg "External link icon")](https://github.com/cloudant-labs/slate){:new_window}.
 {:shortdesc}
 
-## For the cURL samples
+## The cURL samples
 
 There are three ways you can supply the username and password data for a request.
 
